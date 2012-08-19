@@ -12,7 +12,7 @@ Installation:
 1. To install this extension, place this line inside your application's Gemfile:
 
 ```ruby
-gem 'spree_taxon_title', :git => "git://github.com/inotechne/spree_taxon_title"
+gem 'spree_taxon_title', :git => "git://github.com/ricp/spree_taxon_title"
 ```
 
 2. Then run
