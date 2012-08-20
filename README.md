@@ -18,7 +18,7 @@ gem 'spree_taxon_title', :git => "git://github.com/ricp/spree_taxon_title"
 2. Then run
 
 ```
-bundle update
+bundle install
 bundle exec rails g spree_taxon_title:install
 rake db:migrate
 ```
