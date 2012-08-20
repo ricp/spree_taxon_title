@@ -9,13 +9,13 @@ This Spree extension add an optional title field to taxons.
 Installation:
 ------------
 
-1. To install this extension, place this line inside your application's Gemfile:
+To install this extension, place this line inside your application's Gemfile:
 
 ```ruby
 gem 'spree_taxon_title', :git => "git://github.com/ricp/spree_taxon_title"
 ```
 
-2. Then run
+Then run
 
 ```ruby
 bundle install
